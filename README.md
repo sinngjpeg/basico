@@ -16,3 +16,5 @@ Este projeto Android simples tem as seguintes funcionalidades:
 - 🛠️ Recursos configurados utilizando **View Binding**, eliminando a necessidade de usar métodos como `findViewById`.
 
 ---
+![Exemplo de Toast](images/1.png)
+![Exemplo de Toast](images/2.png)
